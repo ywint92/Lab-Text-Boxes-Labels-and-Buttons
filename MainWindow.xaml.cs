@@ -24,5 +24,10 @@ namespace Lab___Text_Boxes__Labels__and_Buttons
         {
             InitializeComponent();
         }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
